@@ -70,6 +70,9 @@ feature.
 
 # **4. Exploratory Data Analysis (EDA)** 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/106911079/218499655-34310692-5bcc-4b75-b05a-7aead90654cf.png)
+![image](https://user-images.githubusercontent.com/106911079/218499725-2d5b17bb-5857-4349-8269-865c42bae6b9.png)
+![image](https://user-images.githubusercontent.com/106911079/218499791-b3807dd7-c562-4257-91cc-4b1d68cd1bda.png)
 
 
 # **5. Model Selection And Evaluation**
@@ -82,6 +85,10 @@ feature.
 * **➢ Random Forest(n estimators=50, max depth=10, min impurity decrease=41.99, min samples leaf=20, min samples split=20)**
 * **➢ Gradient Boosting(n estimators=300, learning rate=0.0957, loss=squarederror, max depth=20, min impurity decrease=2, min samples leaf=50, min samples split=50)**
 * **➢ XG Boosting(n estimators=284, eta=0.0387, gamma=2, max depth=8,subsample=0.9, col sample bytree=0.834)**
+### Screenshots
+![image](https://user-images.githubusercontent.com/106911079/218500142-ca5aecab-950a-451c-b69f-9ad330296401.png)
+![image](https://user-images.githubusercontent.com/106911079/218500339-27dcf0ef-455c-4477-a598-c2026ad3d419.png)
+
 
 # **6. Conclusion**
 ## **Linear Regreesion with Lasso and Ridge regularization**
