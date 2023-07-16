@@ -75,7 +75,7 @@ feature.
 
 
 # **5. Model Selection And Evaluation**
-### Grid Search CV and Bayesian Optimization are the two hyper-parameter tuningmethods that were used ###
+### Grid Search CV and Bayesian Optimization are the two hyper-parameter tuning methods that were used ###
 ### The various models that were used were
 * **➢ Linear Regression**
 * **➢ Lasso Regularization(alpha=0.01)**
